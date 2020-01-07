@@ -1,0 +1,14 @@
+notes
+In HTML, JavaScript code must be inserted between <script> and </script> tags.
+The type="text/JavaScript" is not required no more.
+JavaScript is the default scripting language in html
+You can place any number of scripts in an HTML document
+scripts can be placed in the <body> or in the <head> section of an HTML page or in both.
+placing scripts at the bottom of the <body> element improves the display speed, because script-
+-interpretation slows down the display
+
+external JavaScript
+External scripts are practical when the same code is used in many different web pages
+Js files have the extension .js
+To use an external script put the name of the script file in the src(source) attribute of a <script> tags
+You can place an external script reference in <head> or <body> as you like
