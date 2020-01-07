@@ -1,0 +1,25 @@
+JavaScript Syntax
+JavaScript syntax is the set of rules, how JavaScript programs are constructed:
+var x, y, z;       // How to declare variables
+x = 5; y = 6;      // How to assign values
+z = x + y;         // How to compute values
+
+JavaScript Values
+The JavaScript syntax defines two types of values: Fixed values and variable values.
+Fixed values are called literals. Variable values are called variables.
+
+JavaScript Variables
+In a programming language, variables are used to store data values.
+JavaScript uses the var keyword to declare variables.
+An equal sign is used to assign values to variables.
+
+JavaScript Keywords
+JavaScript keywords are used to identify actions to be performed.
+The var keyword tells the browser to create variables:
+
+JavaScript Keywords
+JavaScript keywords are used to identify actions to be performed.
+The var keyword tells the browser to create variables:
+
+The this Keyword
+In a function definition, this refers to the "owner" of the function.
