@@ -1,0 +1,24 @@
+JavaScript Programs
+A computer program is a list of "instructions" to be "executed" by a computer.
+In a programming language, these programming instructions are called statements.
+A JavaScript program is a list of programming statements.
+In HTML, JavaScript programs are executed by the web browser.
+
+JavaScript Statements
+JavaScript statements are composed of:
+Values, Operators, Expressions, Keywords, and Comments.
+JavaScript programs (and JavaScript statements) are often called JavaScript code.
+
+Semicolons ;
+Semicolons separate JavaScript statements.
+Add a semicolon at the end of each executable statement:
+When separated by semicolons, multiple statements on one line are allowed:
+Ending statements with semicolon is not required, but highly recommended.
+
+JavaScript White Space
+JavaScript ignores multiple spaces. You can add white space to your
+script to make it more readable.
+
+JavaScript Line Length and Line Breaks
+For best readability, programmers often like to avoid code lines longer than 80 characters.
+If a JavaScript statement does not fit on one line, the best place to break it is after an operator:
